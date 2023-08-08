@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore these types of files 
+*.csv
+*.pkl
+*.xlxs 
+
 # Distribution / packaging
 .Python
 build/
